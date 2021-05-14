@@ -1,14 +1,4 @@
-section {
-  font-family: Helvetica, sans-serif;
-  background-color: #add8e6;
-  padding: 15px;
+table tr.checked {
+  text-decoration: line-through;
+  background-color: #ebebeb;
 }
-
-span.total {
-  font-size: 16px;
-  font-weight: normal;
-}
-
-button { font-size: 14px; }
-
-ul { font-size: 20px; }
